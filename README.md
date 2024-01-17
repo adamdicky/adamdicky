@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Dicky </a></p> I am a Software Engineering student of UTMKL. </a></p> I am a beginner at programming but have always been interested since young. Working on to add more on my plate. </a></p> 
+# **Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Dicky </a></p> I am a Software Engineering student of UTMKL.**  </a></p> 
+I am a beginner at programming but have always been interested since young. Working on to add more on my plate. </a></p> 
 
 🌍  I'm based in Kuala Lumpur. </a></p> 
 ✉️  You can contact me at [admdcky@gmail.com](mailto:admdcky@gmail.com) </a></p>
