@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Dicky==================================================================================================================================Software Engineering student of UTMKL.--------------------------------------I am a beginner at programming but have always been interested since young. Working on to add more on my plate.* 🌍  I'm based in Kuala Lumpur.* ✉️  You can contact me at [admdcky@gmail.com](mailto:admdcky@gmail.com)* 🧠  I'm learning C++, SQL, Project Management* 🤝  I'm open to collaborating on small projects or volunteering.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Dicky 
+Software Engineering student of UTMKL.
+I am a beginner at programming but have always been interested since young. Working on to add more on my plate.* 🌍  I'm based in Kuala Lumpur.* ✉️  You can contact me at [admdcky@gmail.com](mailto:admdcky@gmail.com)* 🧠  I'm learning C++, SQL, Project Management* 🤝  I'm open to collaborating on small projects or volunteering.
 
 ### Skills
 
