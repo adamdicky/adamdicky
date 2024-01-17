@@ -1,12 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Dicky 
-Software Engineering student of UTMKL.
-I am a beginner at programming but have always been interested since young. Working on to add more on my plate.* 🌍  I'm based in Kuala Lumpur.* ✉️  You can contact me at [admdcky@gmail.com](mailto:admdcky@gmail.com)* 🧠  I'm learning C++, SQL, Project Management* 🤝  I'm open to collaborating on small projects or volunteering.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Dicky </a></p> I am a Software Engineering student of UTMKL. </a></p> I am a beginner at programming but have always been interested since young. Working on to add more on my plate. </a></p> 
+
+🌍  I'm based in Kuala Lumpur. </a></p> 
+✉️  You can contact me at [admdcky@gmail.com](mailto:admdcky@gmail.com) </a></p>
+🧠  I'm learning C++, SQL, Project Management </a></p>
+🤝  I'm open to collaborating on small projects or volunteering.
 
 ### Skills
 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a></p>
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/adamdicky" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
